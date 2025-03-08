@@ -6,3 +6,5 @@ console.log("changed added in the feature branch")
 
 console.log("first");
 console.log("second");
+
+console.log("first in feat");
