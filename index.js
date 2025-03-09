@@ -16,3 +16,7 @@ console.log(5);
 
 let s = 10;
 console.log(s);
+
+
+let sh = 10;
+console.log(sh);
