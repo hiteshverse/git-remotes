@@ -10,3 +10,6 @@ console.log("second");
 console.log("first in feat");
 
 console.log("sec in feat")
+
+let f = 5;
+console.log(5);
