@@ -13,3 +13,6 @@ console.log("sec in feat")
 
 let f = 5;
 console.log(5);
+
+let s = 10;
+console.log(s);
